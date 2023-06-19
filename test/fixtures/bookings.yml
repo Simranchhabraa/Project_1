@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  address_id: 1
+  reserved_date: 2023-06-08
+  reserved_time: 2023-06-08 13:38:39
+
+two:
+  user_id: 1
+  address_id: 1
+  reserved_date: 2023-06-08
+  reserved_time: 2023-06-08 13:38:39
